@@ -73,7 +73,7 @@ const About = () => {
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
         <span>Hi, I'm Arham.</span><br />
-        <span>I build intelligent, scalable systems with clean code and sharp design.</span><br />
+        <span>I build super intelligent, scalable systems with clean code and sharp design.</span><br />
         <span>Currently exploring AI, AR, and systems that push the boundaries of intelligence.</span><br />
         <span>Let's turn your ideas into impact.</span>
       </p>
