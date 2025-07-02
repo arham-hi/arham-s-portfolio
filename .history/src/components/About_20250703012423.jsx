@@ -68,15 +68,15 @@ const About = () => {
     <>
       <div ref={headingRef}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Behind the Build.</h2>
+        <h2 className={styles.sectionHeadText}>Overview.</h2>
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        <span>Hi, I'm Arham.</span><br />
-        <span>I build intelligent, scalable systems with clean code and sharp design.</span><br />
-        <span>Currently exploring AI, AR, and systems that push the boundaries of intelligence.</span><br />
-        <span>Let's turn your ideas into impact.</span>
-      </p>
+  <span>Hi, I’m Arham.</span><br />
+  <span>I build intelligent, scalable systems with clean code and sharp design.</span><br />
+  <span>Let’s turn your ideas into impact.</span><br /><br />
+  <span>Currently exploring AI, AR, and systems that push the boundaries of intelligence.</span>
+</p>
 
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">

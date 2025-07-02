@@ -49,11 +49,11 @@ export const navLinks = [
   },
   {
     id: "work",
-    title: "Work",
+    title: "Spid",
   },
   {
-    id: "connect",
-    title: "Connect",
+    id: "contact",
+    title: "Contact",
   },
 ];
 

@@ -21,7 +21,7 @@ const Hero = () => {
             Meet <span className='text-[#915EFF]'>Arham</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            The intelligence behind the interface. 
+            Bringing code to consciousness. 
           </p>
         </div>
       </div>

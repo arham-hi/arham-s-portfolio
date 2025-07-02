@@ -18,10 +18,11 @@ const Hero = () => {
 
         <div className="mt-28 md:mt-5 lg:5">
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Meet <span className='text-[#915EFF]'>Arham</span>
+            hi, I'm <span className='text-[#915EFF]'>Arham</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            The intelligence behind the interface. 
+            I develop modern, user <br/>
+            interfaces and web applications
           </p>
         </div>
       </div>

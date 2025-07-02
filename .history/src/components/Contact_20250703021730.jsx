@@ -7,7 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-const Contact = () => {
+const Connect = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
     name: "",
@@ -133,4 +133,4 @@ const Contact = () => {
   );
 };
 
-export default SectionWrapper(Contact, "connect");
+export default SectionWrapper(Connect, "contact");

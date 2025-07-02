@@ -16,6 +16,9 @@ const Tech = () => {
       },
       {
 
+
+
+        
         opacity: 1,
         y: 0,
         duration: 2.5,

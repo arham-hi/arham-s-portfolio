@@ -133,4 +133,4 @@ const Contact = () => {
   );
 };
 
-export default SectionWrapper(Contact, "connect");
+export default SectionWrapper(Contact, "contact");
